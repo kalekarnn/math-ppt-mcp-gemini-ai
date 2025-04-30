@@ -1,0 +1,15 @@
+# Core dependencies
+mcp>=1.0.0
+fastmcp>=1.0.0
+
+# Presentation handling
+python-pptx>=0.6.21
+
+# Image processing
+Pillow>=9.0.0
+
+# Math and scientific computing
+numpy>=1.21.0
+
+#Gemeini
+google-genai
